@@ -1,0 +1,4 @@
+->q0	{q0,q1}		q0
+q1		phi			q2
+*q2		phi			phi
+
