@@ -6,10 +6,14 @@ We write a Python program that takes as input the transition table for an NFA A,
 
 ## Results
 This program works for any given transition table in the required format. For demonstration, the following table was given as input:
+
 ![given table](./inputTable.JPG)
 
 After transforimg the NFA to a DFA we will have:
+
 ![DFA transitiontable](./OutputTransitionTable.JPG)
 
+
 Which has the following diagram:
+
 ![DFA diagram](./outputTransitionDiagram.JPG)
